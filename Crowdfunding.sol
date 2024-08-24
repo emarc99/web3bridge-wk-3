@@ -2,8 +2,8 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 // /** 
-//  * @title Ballot
-//  * @dev Implements voting process along with vote delegation
+//  * @title Crowdfunding
+//  * @dev emarc99
 //  */
 // // SPDX-License-Identifier: MIT
 // pragma solidity ^0.8.20;
